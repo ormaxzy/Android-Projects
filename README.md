@@ -3,6 +3,7 @@ My Android Projects
 Привет! Меня зовут Феодор Маслов, и я Android-разработчик, использующий Kotlin. В этом репозитории я представляю несколько своих проектов, которые, я надеюсь, продемонстрируют мои навыки и опыт в разработке Android-приложений.
 
 1. CityWeather
+
 CityWeather - это приложение, которое позволяет пользователям искать город и получать информацию о его текущей погоде. Это приложение демонстрирует мои навыки в следующих областях:
 
 Работа с сетью: Я использовал Retrofit для выполнения HTTP-запросов к API погоды и получения данных о погоде.
@@ -13,6 +14,7 @@ Clean Architecture: Я применил принципы чистой архит
 Читабельность кода: Я уделил особое внимание написанию читаемого и понятного кода, используя осмысленные имена переменных и методов, следуя принципам чистого кода.
 
 2. Rick and Morty Wiki
+
 Rick and Morty Wiki - это приложение, которое отображает информацию о персонажах и местах из популярного анимационного сериала "Рик и Морти". Этот проект демонстрирует мои навыки в следующих областях:
 
 Jetpack Compose: Я использовал новейшую UI-библиотеку от Google, Jetpack Compose, для создания пользовательского интерфейса приложения. Это позволило мне создать современный и интуитивно понятный интерфейс с меньшим количеством кода.
@@ -29,6 +31,7 @@ My Android Projects
 Hello! My name is Feodor Maslov, and I am an Android developer using Kotlin. In this repository, I present several of my projects, which I hope will demonstrate my skills and experience in Android application development.
 
 1. CityWeather
+
 CityWeather is an application that allows users to search for a city and get information about its current weather. This application demonstrates my skills in the following areas:
 
 Network Integration: I used Retrofit to perform HTTP requests to the weather API and retrieve weather data.
@@ -39,6 +42,7 @@ Clean Architecture: I applied the principles of clean architecture, dividing the
 Code Readability: I paid special attention to writing readable and understandable code, using meaningful variable and method names, following the principles of clean code.
 
 2. Rick and Morty Wiki
+
 Rick and Morty Wiki is an application that displays information about characters and locations from the popular animated series "Rick and Morty". This project demonstrates my skills in the following areas:
 
 Jetpack Compose: I used the latest UI library from Google, Jetpack Compose, to create the application's user interface. This allowed me to create a modern and intuitive interface with less code.
