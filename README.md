@@ -17,9 +17,6 @@ CityWeather - это приложение, которое позволяет п�
 ### Shared Preferences: 
 Я использовал Shared Preferences для сохранения настроек пользователя, таких как предпочитаемая единица измерения температуры.
 
-### Clean Architecture: 
-Я применил принципы чистой архитектуры, разделив приложение на несколько слоев (презентация, доменная логика, данные), что обеспечивает высокую масштабируемость, тестируемость и поддерживаемость кода.
-
 ### Читабельность кода: 
 Я уделил особое внимание написанию читаемого и понятного кода, используя осмысленные имена переменных и методов, следуя принципам чистого кода.
 
@@ -46,9 +43,6 @@ I used Dagger 2 to manage dependencies in the application, which increases modul
 
 ### Shared Preferences: 
 I used Shared Preferences to save user settings, such as the preferred temperature unit.
-
-### Clean Architecture: 
-I applied the principles of clean architecture, dividing the application into several layers (presentation, domain logic, data), which ensures high scalability, testability, and maintainability of the code.
 
 ### Code Readability: 
 I paid special attention to writing readable and understandable code, using meaningful variable and method names, following the principles of clean code.
